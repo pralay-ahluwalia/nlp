@@ -1,0 +1,9 @@
+*/**/secret.yaml
+*/**/secrets.yaml
+.venv/
+poetry.lock
+src/__pycache__/
+*/**/__pycache__/
+/src/step_51_validate_simple.py
+2.html
+1.pdf
